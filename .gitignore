@@ -1,0 +1,6 @@
+```text
+*.exe
+*.obj
+*.pdb
+.vs/
+/out/
